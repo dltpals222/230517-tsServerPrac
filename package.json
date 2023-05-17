@@ -1,0 +1,24 @@
+{
+  "name": "230517-tsserverprac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dltpals222/230517-tsServerPrac.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dltpals222/230517-tsServerPrac/issues"
+  },
+  "homepage": "https://github.com/dltpals222/230517-tsServerPrac#readme",
+  "devDependencies": {
+    "@types/node": "^20.1.7",
+    "typescript": "^5.0.4"
+  }
+}
